@@ -25,6 +25,8 @@ Below are brief descriptions of highlighted features with screenshoots showcasin
 ![2](https://user-images.githubusercontent.com/59124058/209596179-f151bed0-1337-406c-9ed5-11c99d6a0da8.png)
 ![3](https://user-images.githubusercontent.com/59124058/209596185-b45bc32c-fa1a-4981-bfa1-77c6d7a735fe.png)
 ![4](https://user-images.githubusercontent.com/59124058/209596191-dc39fc53-80dc-49d1-9c94-0de24d157843.png)
+![10](https://user-images.githubusercontent.com/59124058/209596633-76593e3e-4f58-4e37-978c-2637bd6c52d4.png)
+![11](https://user-images.githubusercontent.com/59124058/209596640-2b8405d2-5f65-47fe-9ca2-b4dcef61ec7f.png)
 ![7](https://user-images.githubusercontent.com/59124058/209596200-06598c8b-6641-4131-80f8-a2b774d1860c.png)
 ![8](https://user-images.githubusercontent.com/59124058/209596204-c6cd2e4a-969c-4638-87af-27e2aa677b14.png)
 ![9](https://user-images.githubusercontent.com/59124058/209596210-2b5bcdeb-8950-4de5-ac2b-1af5b996dea4.png)
